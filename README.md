@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on personal projects in my free time<br>🌱 I’m studying IT (sophomore, second year)<br>💬 Ask me about anything<br>✨ 17 year old computer enthusiast, had a lot of ideas but haven't had the courage to complete them<br>📫 How to reach me: Instagram (say that you're from GitHub)<br>⚡ May appear as newbie but decent at problem solving
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/davidek.sklarcik) 
 
