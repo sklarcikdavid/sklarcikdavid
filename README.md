@@ -2,7 +2,10 @@
 
 ###
 
-<p align="center">junior web-dev from Czech Republic 🇨🇿</p>
+<p align="center">
+    junior web-dev from Czech Republic
+    <span><img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg" height="16"/></span>
+</p>
 
 ###
 
